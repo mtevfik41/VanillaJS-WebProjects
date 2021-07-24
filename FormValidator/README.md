@@ -32,6 +32,8 @@ Simple client side form validation. Check required, length, email and password m
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
+- [Sass](https://www.npmjs.com/package/node-sass)
+
 - [JavaScript](https://www.javascript.com/)
 
 ## Project Specifications
