@@ -22,7 +22,7 @@
 
 ## About The Project
 
-Mini projects built with HTML5, CSS, Sass & JavaScript. No frameworks or libraries.
+Mini projects built with HTML5, CSS, Sass & JavaScript. No frameworks or libraries
 
 ### Built With
 
