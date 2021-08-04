@@ -22,6 +22,8 @@
 
 ## About The Project
 
+- [Netlify](https://vanilla-js-projects-app.netlify.app/)
+
 Mini projects built with HTML5, CSS, Sass & JavaScript. No frameworks or libraries
 
 ### Built With
