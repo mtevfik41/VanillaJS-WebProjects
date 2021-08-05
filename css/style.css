@@ -81,16 +81,25 @@ span {
   .box {
     width: 32%;
   }
+  p {
+    width: 31%;
+  }
 }
 
 @media (max-width: 992px) {
   .box {
     width: 49%;
   }
+  p {
+    width: 48%;
+  }
 }
 
 @media (max-width: 768px) {
   .box {
     width: 100%;
+  }
+  p {
+    width: 99%;
   }
 }
